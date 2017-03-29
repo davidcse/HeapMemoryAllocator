@@ -1,0 +1,4 @@
+*.o
+lib/*.o
+sfmmtest.c
+a.out
